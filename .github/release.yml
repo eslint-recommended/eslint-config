@@ -1,0 +1,21 @@
+changelog:
+  categories:
+    - title: "Breaking changes"
+      labels:
+        - "breaking change"
+    - title: "New features"
+      labels:
+        - "enhancement"
+    - title: "Bug fixes"
+      labels:
+        - "bug"
+    - title: "Dependency updates"
+      labels:
+        - "dependencies"
+        - "renovate"
+    - title: "Documentation"
+      labels:
+        - "documentation"
+    - title: "Other changes"
+      labels:
+        - "*"
