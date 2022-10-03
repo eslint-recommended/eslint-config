@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/@eslint-recommended/eslint-config.svg)](https://badge.fury.io/js/@eslint-recommended/eslint-config)
+[![npm version](https://badge.fury.io/js/%40eslint-recommended%2Feslint-config.svg)](https://badge.fury.io/js/%40eslint-recommended%2Feslint-config)
 [![eslint](https://github.com/eslint-recommended/eslint-config/actions/workflows/eslint.yml/badge.svg)](https://github.com/eslint-recommended/eslint-config/actions/workflows/eslint.yml)
 
 # @eslint-recommended/eslint-config
