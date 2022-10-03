@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Recommended ESLint Shareable Config for JavaScript",
   "scripts": {
-    "lint": "eslint '**/*.js'"
+    "lint": "eslint '**/*.js'",
+    "prepublishOnly": "npm run lint"
   },
   "files": [
     "index.js"
