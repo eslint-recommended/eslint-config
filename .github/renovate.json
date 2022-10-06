@@ -1,5 +1,6 @@
 {
   "extends": [
     "github>eslint-recommended/renovate-config"
-  ]
+  ],
+  "labels": ["renovate"]
 }
