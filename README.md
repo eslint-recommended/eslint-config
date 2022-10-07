@@ -12,6 +12,7 @@ Recommended ESLint Shareable Config for JavaScript
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
 - [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
 - [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
+- [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
 
 ## Peer dependencies
 
@@ -19,6 +20,7 @@ Recommended ESLint Shareable Config for JavaScript
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
 - [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
+- [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
 - [eslint-plugin-n](https://www.npmjs.com/package/eslint-plugin-n)
 - [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
 - [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
@@ -45,6 +47,7 @@ npm i -D \
   eslint-config-standard \
   eslint-plugin-eslint-comments \
   eslint-plugin-import \
+  eslint-plugin-jsdoc \
   eslint-plugin-n \
   eslint-plugin-promise \
   eslint-plugin-unicorn \
