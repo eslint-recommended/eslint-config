@@ -40,5 +40,11 @@
     "url": "https://github.com/eslint-recommended/eslint-config/issues"
   },
   "homepage": "https://github.com/eslint-recommended/eslint-config",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "eslint-config",
+    "eslint",
+    "eslintconfig"
+  ]
 }
