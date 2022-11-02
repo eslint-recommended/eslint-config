@@ -25,11 +25,9 @@ Recommended ESLint Shareable Config for JavaScript
 - [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
 - [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
 
-## Usage
+## Installation
 
-### Install packages
-
-#### npm@>=7
+### npm@>=7
 
 Install `@eslint-recommended/eslint-config`.
 
@@ -37,7 +35,7 @@ Install `@eslint-recommended/eslint-config`.
 npm i -D @eslint-recommended/eslint-config
 ```
 
-#### npm@<7
+### npm@<7
 
 Install `@eslint-recommended/eslint-config` and its peer dependencies.
 
@@ -54,7 +52,7 @@ npm i -D \
   @eslint-recommended/eslint-config
 ```
 
-### Use in ESLint config
+## Usage
 
 Add `@eslint-recommended` to `extends` of your ESLint config.
 
