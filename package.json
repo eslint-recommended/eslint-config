@@ -20,7 +20,7 @@
     "eslint-plugin-jsdoc": "^39.3.6",
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0",
-    "eslint-plugin-unicorn": "^44.0.0"
+    "eslint-plugin-unicorn": "^44.0.0 || ^45.0.0"
   },
   "devDependencies": {
     "eslint": "8.28.0",
@@ -30,7 +30,7 @@
     "eslint-plugin-jsdoc": "39.6.2",
     "eslint-plugin-n": "15.5.1",
     "eslint-plugin-promise": "6.1.1",
-    "eslint-plugin-unicorn": "44.0.2"
+    "eslint-plugin-unicorn": "45.0.0"
   },
   "repository": {
     "type": "git",
