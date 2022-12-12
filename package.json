@@ -30,7 +30,7 @@
     "eslint-plugin-jsdoc": "39.6.4",
     "eslint-plugin-n": "15.6.0",
     "eslint-plugin-promise": "6.1.1",
-    "eslint-plugin-unicorn": "45.0.1"
+    "eslint-plugin-unicorn": "45.0.2"
   },
   "repository": {
     "type": "git",
