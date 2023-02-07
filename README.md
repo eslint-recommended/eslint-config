@@ -14,14 +14,6 @@ Recommended ESLint Shareable Config for JavaScript
 - [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
 - [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
 
-## Peer dependencies
-
-- [eslint](https://www.npmjs.com/package/eslint)
-- [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
-- [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
-- [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
-- [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
-
 ## Installation
 
 Install `@eslint-recommended/eslint-config`.
