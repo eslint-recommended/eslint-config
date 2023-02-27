@@ -28,11 +28,15 @@ npm i -D @eslint-recommended/eslint-config
 
 Add `@eslint-recommended` to `extends` of your ESLint config.
 
-```json
-{
-  "extends": [
-    "@eslint-recommended"
-  ]
+```js
+module.exports = {
+  extends: [
+    '@eslint-recommended'
+    // add other rulesets here if needed
+  ],
+  rules: {
+    // override/add rules settings here if needed
+  }
 }
 ```
 
