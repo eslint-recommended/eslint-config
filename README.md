@@ -24,6 +24,10 @@ Install `@eslint-recommended/eslint-config`.
 npm i -D @eslint-recommended/eslint-config
 ```
 
+```sh
+yarn add -D @eslint-recommended/eslint-config
+```
+
 ## Usage
 
 Add `@eslint-recommended` to `extends` of your ESLint config.
