@@ -18,11 +18,13 @@ Recommended ESLint Shareable Config for JavaScript
 
 ## Installation
 
-Install `@eslint-recommended/eslint-config`.
+npm:
 
 ```sh
 npm i -D @eslint-recommended/eslint-config
 ```
+
+Yarn:
 
 ```sh
 yarn add -D @eslint-recommended/eslint-config
