@@ -10,7 +10,7 @@
     "index.js"
   ],
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "peerDependencies": {
     "eslint": "^8.23.1",
