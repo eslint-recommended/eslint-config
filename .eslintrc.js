@@ -8,10 +8,8 @@
  * @see https://eslint.org/docs/latest/use/configure/configuration-files
  */
 const config = {
-  extends: './index.js',
-  rules: {
-    'unicorn/prefer-module': 'off'
-  }
+  extends: './index.js'
 }
 
+// eslint-disable-next-line unicorn/prefer-module
 module.exports = config
