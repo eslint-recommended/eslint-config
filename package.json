@@ -18,7 +18,7 @@
     "eslint-plugin-eslint-comments": "^3.0.0",
     "eslint-plugin-jsdoc": "^48.0.0",
     "eslint-plugin-sonarjs": "^0.21.0",
-    "eslint-plugin-unicorn": "^48.0.0"
+    "eslint-plugin-unicorn": "^48.0.0 || ^49.0.0"
   },
   "devDependencies": {
     "eslint": "8.56.0",
@@ -26,7 +26,7 @@
     "eslint-plugin-eslint-comments": "3.2.0",
     "eslint-plugin-jsdoc": "48.0.2",
     "eslint-plugin-sonarjs": "0.21.0",
-    "eslint-plugin-unicorn": "48.0.1"
+    "eslint-plugin-unicorn": "49.0.0"
   },
   "repository": {
     "type": "git",
