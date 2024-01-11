@@ -17,7 +17,7 @@
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-eslint-comments": "^3.0.0",
     "eslint-plugin-jsdoc": "^48.0.0",
-    "eslint-plugin-sonarjs": "^0.21.0 || ^0.23.0",
+    "eslint-plugin-sonarjs": "^0.23.0",
     "eslint-plugin-unicorn": "^49.0.0"
   },
   "devDependencies": {
