@@ -21,7 +21,7 @@
     "eslint-plugin-unicorn": "^52.0.0"
   },
   "devDependencies": {
-    "@eslint-community/eslint-plugin-eslint-comments": "4.1.0",
+    "@eslint-community/eslint-plugin-eslint-comments": "4.2.0",
     "eslint": "8.57.0",
     "eslint-config-standard": "17.1.0",
     "eslint-plugin-jsdoc": "48.2.3",
