@@ -3,7 +3,7 @@
   "version": "24.0.1",
   "description": "Recommended ESLint Shareable Config for JavaScript",
   "scripts": {
-    "lint": "eslint '**/*.js'",
+    "lint": "eslint '**/*.{js,mjs,cjs,jsx}'",
     "prepublishOnly": "npm run lint"
   },
   "files": [
