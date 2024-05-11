@@ -1,6 +1,6 @@
 {
   "name": "@eslint-recommended/eslint-config",
-  "version": "24.1.0",
+  "version": "25.0.0",
   "description": "Recommended ESLint Shareable Config for JavaScript",
   "scripts": {
     "lint": "eslint '**/*.{js,mjs,cjs,jsx}'",
