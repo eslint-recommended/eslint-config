@@ -10,7 +10,7 @@
     "index.js"
   ],
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "peerDependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0",
