@@ -35,19 +35,43 @@ Yarn:
 yarn add -D @eslint-recommended/eslint-config
 ```
 
+pnpm:
+
+```sh
+pnpm add -D @eslint-recommended/eslint-config
+```
+
 ## Usage
 
 Add `@eslint-recommended` to the `extends` section of your [ESLint configuration file](https://eslint.org/docs/latest/use/configure/configuration-files-deprecated).
 
-```js
+JavaScript:
+
+```javascript
 module.exports = {
   extends: [
     '@eslint-recommended'
     // add other rulesets here if needed
-  ],
-  rules: {
-    // override/add rules settings here if needed
-  }
+  ]
+}
+```
+
+YAML:
+
+```yaml
+extends:
+  - @eslint-recommended
+  # add other rulesets here if needed
+```
+
+JSON:
+
+```jsonc
+{
+  "extends": [
+    "@eslint-recommended"
+    // add other rulesets here if needed
+  ]
 }
 ```
 
