@@ -12,7 +12,8 @@ const config = {
     'plugin:unicorn/recommended',
     'plugin:sonarjs/recommended',
     'plugin:@eslint-community/eslint-comments/recommended',
-    'plugin:jsdoc/recommended'
+    'plugin:jsdoc/recommended',
+    'plugin:regexp/recommended'
   ]
 }
 
