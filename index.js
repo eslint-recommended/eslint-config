@@ -14,7 +14,11 @@ const config = {
     'plugin:@eslint-community/eslint-comments/recommended',
     'plugin:jsdoc/recommended',
     'plugin:regexp/recommended'
-  ]
+  ],
+  rules: {
+    // Disable because it conflicts with eslint-plugin-regexp.
+    'unicorn/better-regex': 'off'
+  }
 }
 
 // eslint-disable-next-line unicorn/prefer-module
