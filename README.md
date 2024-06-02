@@ -15,6 +15,7 @@ Recommended ESLint Shareable Config for JavaScript
 - [eslint-plugin-sonarjs](https://www.npmjs.com/package/eslint-plugin-sonarjs)
 - [@eslint-community/eslint-plugin-eslint-comments](https://www.npmjs.com/package/@eslint-community/eslint-plugin-eslint-comments)
 - [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
+- [eslint-plugin-regexp](https://www.npmjs.com/package/eslint-plugin-regexp)
 
 ## Requirements
 
