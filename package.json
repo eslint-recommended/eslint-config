@@ -18,7 +18,7 @@
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-jsdoc": "^48.0.0",
     "eslint-plugin-regexp": "^2.6.0",
-    "eslint-plugin-sonarjs": "^0.25.0",
+    "eslint-plugin-sonarjs": "^0.25.0 || ^2.0.0",
     "eslint-plugin-unicorn": "^53.0.0"
   },
   "devDependencies": {
@@ -27,7 +27,7 @@
     "eslint-config-standard": "17.1.0",
     "eslint-plugin-jsdoc": "48.11.0",
     "eslint-plugin-regexp": "2.6.0",
-    "eslint-plugin-sonarjs": "0.25.1",
+    "eslint-plugin-sonarjs": "2.0.3",
     "eslint-plugin-unicorn": "53.0.0"
   },
   "repository": {
