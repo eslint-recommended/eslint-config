@@ -14,7 +14,7 @@
   },
   "peerDependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0",
-    "eslint": "^8.23.1",
+    "eslint": "^8.23.1 || ^9.0.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-jsdoc": "^50.0.0",
     "eslint-plugin-regexp": "^2.6.0",
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "4.5.0",
-    "eslint": "8.57.1",
+    "eslint": "9.33.0",
     "eslint-config-standard": "17.1.0",
     "eslint-plugin-jsdoc": "50.8.0",
     "eslint-plugin-regexp": "2.7.0",
